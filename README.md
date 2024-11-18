@@ -38,4 +38,5 @@ Para desplegar este proyecto en tu propio entorno local, sigue los siguientes pa
    xdg-open index.html  # Linux
    ```
 
-¡Listo! Ahora puedes explorar la información sobre *Hellblade: Senua's Sacrifice* y usar el formulario de contacto en la página.
+¡Listo! Ahora puedes explorar la información sobre *Hellblade: Senua's Sacrifice* y usar el formulario de contacto en la página. 
+
