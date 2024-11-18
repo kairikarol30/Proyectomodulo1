@@ -15,6 +15,8 @@ Este es un proyecto web que proporciona información sobre el videojuego *Hellbl
 - HTML5
 - Formularios HTML
 - Enlaces a contenido externo
+## Vista de la página
+https://kairikarol30.github.io/Proyectomodulo1/
 
 ## Cómo desplegar el proyecto
 
