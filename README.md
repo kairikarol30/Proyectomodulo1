@@ -26,3 +26,16 @@ Para desplegar este proyecto en tu propio entorno local, sigue los siguientes pa
    ```bash
    git clone https://github.com/tu_usuario/Proyectomodulo1.git
    
+2. Navega a la carpeta del proyecto:
+   ```bash
+   cd Proyectomodulo1
+   ```
+
+3. Abre el archivo `index.html` en tu navegador:
+   ```bash
+   open index.html   # macOS
+   start index.html  # Windows
+   xdg-open index.html  # Linux
+   ```
+
+¡Listo! Ahora puedes explorar la información sobre *Hellblade: Senua's Sacrifice* y usar el formulario de contacto en la página.
